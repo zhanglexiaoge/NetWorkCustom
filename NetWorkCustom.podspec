@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |spec|
   spec.name         = "NetWorkCustom"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "NetWorkCustom项目所有的工具类,以及基类,第三方框架 BaseHanTalk."
   spec.description  = <<-DESC
                     NetWorkCustom项目所有的工具类,以及基类,第三方框架 BaseHanTalk的详细描述
